@@ -7,7 +7,7 @@
     <div class="search-div">
 <input type="text" name="write" id="search-field">
     </div>
-
+<div id="output"></div>
     <script type="text/javascript">
 $(document).ready(function(){
     $("#search-field").keyup(function(){
